@@ -1,0 +1,26 @@
+Portofolio-brands
+
+creep paper-brand_aprillia
+hangings-brand_derbi
+wall decor-brand_gilera
+hangings-brand_guzzi
+wall Decor-brand_piaggio
+home decor-brand_scarabeo
+kids room-brand_vespa
+living room-brand_aprillia
+room decor-brand_derbi
+creep paper-brand_gilera
+hangings-brand_guzzi
+wall decor-brand_piaggio
+
+///////////////////////////////////////////////////////////////////////////////////
+logo-logo
+carousal-piaggiogrp
+unigueness-satisfied customer
+functionality-customer_care
+mission-destinct
+decor-jobs and careers
+Location-http://www.piaggio.co.in/dealer-locator
+vintage style-Mobility(International assignments develop 
+	the ability to compete successfully in a global environment.)
+Artistic style-news_room

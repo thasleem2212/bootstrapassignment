@@ -1,0 +1,22 @@
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<a href="#">Customer care</a>
+								</li>
+								<li>
+									<a href="#">Wall Decor</a>
+								</li>
+								<li>
+									<a href="#">Room Decor</a>
+								</li>
+
+								<li class="divider"></li>
+								<li class="dropdown-header">Special Services</li>
+								<li>
+									<a href="#">Event Management</a>
+								</li>
+								<li>
+									<a href="#">Indoor & Outdoor</a>
+								</li>
+							</ul>
+							<!-- end dropdown-menu -->
